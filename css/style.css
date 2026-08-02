@@ -1,0 +1,14 @@
+.container h1 {
+  color: red;
+}
+.container {
+  margin: o auto;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
