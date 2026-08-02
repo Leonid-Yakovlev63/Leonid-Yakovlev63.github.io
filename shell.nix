@@ -3,5 +3,9 @@
 }:
 
 pkgs.mkShell {
-  buildInputs = [ pkgs.dart-sass ];
+  buildInputs = [
+    pkgs.gnumake
+    pkgs.dart-sass
+    pkgs.pre-commit
+  ];
 }

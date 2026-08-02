@@ -2,6 +2,14 @@
 
 ## Разработка
 
+### Makefile
+
+Форматирование кода
+
+```bash
+make format
+```
+
 ### SCSS
 
 ```bash
