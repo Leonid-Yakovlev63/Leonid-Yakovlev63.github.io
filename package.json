@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "devDependencies": {
+    "sass": "^1.93.0"
+  },
+  "scripts": {
+    "build": "mkdir -p css && sass scss/style.scss css/style.css"
+  }
+}
